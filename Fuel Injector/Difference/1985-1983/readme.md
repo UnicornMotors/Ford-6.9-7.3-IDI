@@ -2,8 +2,9 @@
 What did they actually Change on it?
 
 sch:
-- https://www.rockauto.com/en/catalog/ford,1985,f-250,6.9l+420cid+v8+diesel,1123928,fuel+&+air,fuel+injector,6224
-- https://www.rockauto.com/en/catalog/ford,1983,f-250,6.9l+420cid+v8+diesel,1123669,fuel+&+air,fuel+injector,6224
+- 1985 https://www.rockauto.com/en/catalog/ford,1985,f-250,6.9l+420cid+v8+diesel,1123928,fuel+&+air,fuel+injector,6224
+- 1984 https://www.rockauto.com/en/catalog/ford,1983,f-250,6.9l+420cid+v8+diesel,1123669,fuel+&+air,fuel+injector,6224
+- 1983 https://www.rockauto.com/en/catalog/ford,1983,f-250,6.9l+420cid+v8+diesel,1123669,fuel+&+air,fuel+injector,6224
 
 ## 1983 model: GB REMANUFACTURING 621101
 $54
