@@ -3,6 +3,15 @@
 
 [Ford 6.9 7.3 diesel hard start cold stalls and dies. Fuel leak](https://youtu.be/3vqSaDWcCJE)
 
+## Series: by chad frank
+- [7.3 IDI Air intrusion and hard start symptoms and cures. pt1](https://youtu.be/9cDs86sIg90)
+- [7.3 IDI Air intrusion and hard start symptoms and cures. pt2](https://youtu.be/ND9iMxBFp4c)
+- [7.3 IDI Air intrusion and hard start symptoms and cures. pt3](https://youtu.be/ivZ3KpqwAJc)
+- [7.3 IDI Air intrusion and hard start symptoms and cures. pt4](https://youtu.be/Xzvmm-pca7I)
+- [7.3 IDI Air intrusion and hard start symptoms and cures. pt5](https://youtu.be/OWsj6oWeKp8)
+
+[7.3 idi and 6.9 idi fuel and air Intrusion. Hard starting. electric fuel pump](https://youtu.be/AZoSCQDnXbE)
+
 # Tool
 The parts you will need are only 2 different sizes of standard clear vinyl tubing from your nearest hardware store.  The sizes are :
 
