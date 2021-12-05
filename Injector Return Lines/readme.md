@@ -5,3 +5,5 @@ sch: https://www.youtube.com/results?search_query=7.3+idi+injector+return+line+k
 
 # Replacement
 [1993 F250 7.3L IDI Fuel Return Line Replacement](https://youtu.be/WjTntK8LknE)
+
+[IDI fuel return kit/tune up](https://youtu.be/95CmZ9ujyEM)
