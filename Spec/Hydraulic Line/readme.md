@@ -4,11 +4,11 @@
 - from distributor to Front disk brakes
 - from distributor to Rear differential hose connection
 
-# Fuel Return to Tank line: 3/8" Aluminum or steel
-from High Pressure Fuel pump That return to tank is 3/8"
+# Fuel Return to Tank line: 3/8" Aluminum or Steel
+from High Pressure Fuel pump That return to tank is 3/8". Appears to be Steel, Aluminum would also work. 
 
 # High Pressure Diesel Injection lines: 1/4" Steel
 all injector lines are 1/4 inch Steel tubing!
 
-# Fuel Return line from Injection Pump to Fuel Filter: 5/16" Aluminum or steel
-There's a short connection from the top of the Injection Pump to Fuel Filter 5/16" Appears to be Aluminum
+# Fuel Return line from Injection Pump to Fuel Filter: 5/16" Aluminum or Steel
+There's a short connection from the top of the Injection Pump to Fuel Filter 5/16". Appears to be Steel, Aluminum would also work.
