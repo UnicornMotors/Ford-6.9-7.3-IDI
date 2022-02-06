@@ -5,3 +5,6 @@
 - [How to TEST and DIAGNOSE your BLOCK HEATER](https://youtu.be/3umpJgKIy6M)
 - [Everything You Need To Know About Your Block Heater](https://youtu.be/czoJBnG0WFw)
 - [Removing the block heater... again. Ford 6.9 diesel](https://youtu.be/-faCVUMHzEc)
+
+# Favorite:
+[Engine Block Heater vs Oil Pan Heater. Everything you NEED to know about Cold Weather Diesel Engines](https://youtu.be/vb6GKtUc5iM)
