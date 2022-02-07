@@ -8,3 +8,6 @@
 
 # Favorite:
 [Engine Block Heater vs Oil Pan Heater. Everything you NEED to know about Cold Weather Diesel Engines](https://youtu.be/vb6GKtUc5iM)
+
+# Discussion
+https://www.oilburners.net/threads/7-3-idi-engine-heating-options.86980/
