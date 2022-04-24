@@ -1,5 +1,10 @@
 sch: https://www.google.com/search?q=international+7.3+idi+timing+marks
 
+# Photo
+- https://www.oilburners.net/attachments/scan0001-jpg.46477/
+- https://www.oilburners.net/attachments/dsc00239-jpg.46478/
+- https://www.oilburners.net/attachments/dsc00239-jpg.46479/
+
 # Diagram
 - https://www.oilburners.net/threads/technical-question-regarding-7-3-idit-injectors-heads.65747/#post-765029
 - https://www.ford-trucks.com/forums/1257119-is-your-timing-mark-accurate-if-your-ip-is-on-the-wrong-tooth.html#&gid=1&pid=1
