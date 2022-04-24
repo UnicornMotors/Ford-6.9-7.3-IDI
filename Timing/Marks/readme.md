@@ -11,4 +11,5 @@ sch: https://www.google.com/search?q=international+7.3+idi+timing+marks
 - https://www.ford-trucks.com/forums/1551100-ip-swap-7-3idi-timing-questions.html
 
 # Video
-[6.9-7.3 idi injection pump timing hack](https://www.youtube.com/watch?v=f0bygIcLm-E)
+- [6.9-7.3 idi injection pump timing hack](https://youtu.be/f0bygIcLm-E)
+- [Static timing the IP on a 6.9 or 7.3 diesel. How to keep from being off a tooth-Rick's Shop](https://youtu.be/vBavENlzvjU)
