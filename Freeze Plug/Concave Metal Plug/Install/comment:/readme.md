@@ -68,4 +68,8 @@ paladinjme
 43 minutes ago
  @Luke  Same...convex side faces in.
 
-
+## Freeze Plug Lock Tight
+Mike Good
+7 hours ago
+There is a type of lock tight To put on that freeze plug to hold it in place
+—https://www.youtube.com/watch?v=LxZyzVXcMv4&lc=UgwHXP9VYITzXp_TUh94AaABAg
