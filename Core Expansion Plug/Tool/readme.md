@@ -5,6 +5,7 @@ sch: https://www.google.com/search?q=expansion+plug+for+7.3+IDI+engine+tool
 - https://www.oilburners.net/threads/7-3-idi-freeze-plugs.45940/
 - https://www.oilburners.net/threads/7-3-idi-t-freeze-plugs-and-install-tool.87304/
 - https://www.oilburners.net/threads/6-9-7-3-idi-freeze-plug-install-tool.65228/
+- https://www.ford-trucks.com/forums/1447808-freeze-plug-install-tool.html
 
 # Part Number:
 
