@@ -18,5 +18,5 @@ Ark: https://web.archive.org/web/2008*/http://www.autozone.com/az/cds/en_us/0900
 >that shows the correct tool etc.
 —https://www.oilburners.net/threads/freeze-plug-tool.20195/#post-237039
 
->Suv... Thats not how our plugs are installed. That artical is for the cup type plugs. Look at what the factory did to install the plugs in any original block. The stainless steel plugs are dimpled in the centers for the proper amount of expansion and driving it in with a socket or lasrge punch wil not tell you if its set properly. The correct tool can only install it so far into the block. The tool has a built in stop and you hear and feel it when its done correctly. That artical is a nice one but its not for us. Its for the cup type plugs.
+>Suv... Thats not how our plugs are installed. That artical is for the cup type plugs. Look at what the factory did to install the plugs in any original block. The stainless steel plugs are dimpled in the centers for the proper amount of expansion and driving it in with a socket or lasrge punch wil not tell you if its set properly. The correct tool can only install it so far into the block. The tool has a built in stop and you hear and feel it when its done correctly. That artical is a nice one but its not for us. Its for the cup type plugs.  
 —https://www.oilburners.net/threads/freeze-plug-tool.20195/#post-237050
