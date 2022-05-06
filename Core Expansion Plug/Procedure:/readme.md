@@ -7,7 +7,7 @@
 >When we say dealer plugs, we mean it. There is a measurable difference in the height of the dome and the cut of the taper edges between the factory freeze plugs and ones available from Napa etc and if you were to attempt to use an aftermarlet one with the factory tool , there is simply no way the thing would set properly, there is too much difference in the height to permit proper sealing pressure to be applied and in some cases would fold the plug up on a narrow edge just itching to walk out
 —https://www.oilburners.net/threads/7-3-idi-freeze-plugs.45940/#post-522870
 
-## Autozone
+Autozone  
 Ark: https://web.archive.org/web/2008*/http://www.autozone.com/az/cds/en_us/0900823d/80/0a/58/43/0900823d800a5843/repairInfoPages.htm
 
 
@@ -18,3 +18,5 @@ Ark: https://web.archive.org/web/2008*/http://www.autozone.com/az/cds/en_us/0900
 >that shows the correct tool etc.
 —https://www.oilburners.net/threads/freeze-plug-tool.20195/#post-237039
 
+>Suv... Thats not how our plugs are installed. That artical is for the cup type plugs. Look at what the factory did to install the plugs in any original block. The stainless steel plugs are dimpled in the centers for the proper amount of expansion and driving it in with a socket or lasrge punch wil not tell you if its set properly. The correct tool can only install it so far into the block. The tool has a built in stop and you hear and feel it when its done correctly. That artical is a nice one but its not for us. Its for the cup type plugs.
+—https://www.oilburners.net/threads/freeze-plug-tool.20195/#post-237050
