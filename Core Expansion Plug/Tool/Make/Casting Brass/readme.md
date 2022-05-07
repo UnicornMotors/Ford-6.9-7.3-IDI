@@ -15,8 +15,8 @@ or:
 - https://www.google.com/search?q=1+1%2F2+inside+diameter+pipe
 
 ### Perfect:
-https://www.bobcometal.com/galvanized-pipe-schedule-40-1-1-2-inches.html
-
+- https://www.bobcometal.com/galvanized-pipe-schedule-40-1-1-2-inches.html
+- https://fastmetals.com/products/1-1-2-x-sch-40-1-900-od-x-145w-pipe-6061-t6-extruded-structural-astm-b221
 
 ## Or make a 2 piece Clay Mould!
 Wrap a thin piece of sheet metal around the 1" Rod to give it enough space to Fit when the Casting Cools. A Aluminum Can would work.
