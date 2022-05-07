@@ -8,7 +8,7 @@ Much easier than finding a steel stock or Welding.
 Tubing vs Pipe
 - https://wagnercompanies.com/difference-pipe-tube/
 
-Options:
+### Options:
 1 1/2 OD (Outside diameter) Tubing  
 or:  
 1 1/2 ID (inside diameter) Pipe
