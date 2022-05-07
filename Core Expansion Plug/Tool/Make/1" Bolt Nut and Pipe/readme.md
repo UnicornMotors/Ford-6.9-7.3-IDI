@@ -4,6 +4,9 @@ I Can make this from a:
 - Washer
 - Nut - Use to set protrusion of Bolt exactly!
 
+# inspire.
+That'd be soooo easy to make. Prolly cost a whopping $5.00 for materials —[comment](https://www.oilburners.net/threads/block-freeze-plug-write-up.22380/page-2#post-256228)
+
 # Can Create Chamfer & Bevel with a Dremel!
 >Numbers I can do, but if you want pictures, you'll find out real quick why I didn't go into engineering :rotflmao  
 >YEs, the bevel in the outer shell matches the plug before it is hammered, the new plug cradles into it perfectly ( which precludes using an aftermarket >plug since the ones from Napa are shaped differently ) I believe part of the reason for that angle is also to keep the plug forcing inward and pinned in at the edges and keep it from rolling around and curling back out ( which is one of the common failure modes when the plugs are installed without the tool )
