@@ -1,0 +1,1 @@
+[Aligning the IP Timing, Camshaft, and Crankshaft Gears on a 6.9 / 7.3 IDI Engine](https://www.nickpisca.com/diesel/engine/aligning-the-ip-timing-camshaft-and-crankshaft-gears-on-a-6-9-7-3-idi-engine/)
